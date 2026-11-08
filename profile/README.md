@@ -126,4 +126,3 @@ The project is under active development and we are preparing for launch. Follow 
 
 
 
-<p align="right"><strong>RU</strong> · <a href="README.en.md">ENG</a></p>
