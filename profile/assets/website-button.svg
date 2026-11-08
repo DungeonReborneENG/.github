@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="338" height="76" viewBox="0 0 338 76" role="img" aria-label="НАШ САЙТ">
+<title>НАШ САЙТ</title>
+<rect x="1" y="1" width="288" height="74" rx="3" fill="#c6aa6b" stroke="#b99d60" stroke-width="1.5"/>
+<rect x="5" y="5" width="280" height="66" rx="1" fill="none" stroke="#171b12" stroke-opacity=".18"/>
+<path d="M20 28V18h10 M260 18h10v10 M20 48v10h10 M260 58h10V48" fill="none" stroke="#4c422a" stroke-width="1"/>
+<text x="39" y="33" fill="#171b12" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="1.4">НАШ САЙТ</text>
+<text x="39" y="51" fill="#4c422a" font-family="Arial, sans-serif" font-size="8" letter-spacing=".6">DUNGEONREBORNE.COM</text>
+<path d="M242 32l6 6-6 6 M232 38h16" fill="none" stroke="#171b12" stroke-width="1.5"/>
+</svg>
