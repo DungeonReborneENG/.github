@@ -123,3 +123,7 @@ The project is under active development and we are preparing for launch. Follow 
   <a href="https://dungeonreborne.com"><img src="assets/website-button-en-gap64.svg" alt="Visit the DungeonReborne website" width="354" height="76"></a>
   <a href="https://discord.gg/J9rmpSzBkf"><img src="assets/discord-button-en.svg" alt="Join the DungeonReborne Discord" width="290" height="76"></a>
 </p>
+
+
+
+<p align="right"><strong>RU</strong> · <a href="README.en.md">ENG</a></p>
