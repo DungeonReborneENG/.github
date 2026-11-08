@@ -27,7 +27,7 @@ We are building DungeonReborne step by step and want to discuss its development 
 
 ---
 
-## 🌐 Website, registration, and player accounts
+## 🌐 DungeonReborne website and accounts for Dungeonborne players
 
 The **[DungeonReborne website](https://dungeonreborne.com)** includes an evolving registration, sign-in, and account system. Website accounts are used to sign in to our launcher. Work continues on integration with in-game profiles and validation of the complete gameplay cycle.
 
@@ -35,9 +35,9 @@ Players should not have to manually configure files before every session. The Du
 
 ---
 
-## 🖥️ Custom DungeonReborne launcher for Windows
+## 🖥️ DungeonReborne launcher for the Dungeonborne community
 
-We have written a custom launcher interface in C#. Its responsibilities include website-based authentication, game client downloads, file verification, updates, and launching the game.
+We have written a custom launcher interface in C# for DungeonReborne. Its responsibilities include website-based authentication, game client downloads, file verification, updates, and launching the game. For members of the Dungeonborne community, it provides a single entry point to our project’s game infrastructure.
 
 ![DungeonReborne Windows launcher — interface and connection to the game server](assets/launcher.png)
 
@@ -57,11 +57,11 @@ If you are looking for **where to play Dungeonborne**, follow our announcements 
 
 ---
 
-## 💬 DungeonReborne community: RU and ENG
+## 💬 The Dungeonborne community at DungeonReborne: RU and ENG
 
 Our **[Discord community](https://discord.gg/J9rmpSzBkf)** has Russian and English sections. They include general chat, news, development updates, ideas and suggestions, balance feedback, bug reports, and a channel for newcomers.
 
-Suggestions are organized by topic:
+Suggestions from the Dungeonborne community are organized by topic:
 
 - Classes.
 - Weapons.
@@ -75,11 +75,21 @@ We invite Dungeonborne players to share specific suggestions and observations. W
 
 ---
 
-## 🧭 What's next?
+## 🧭 Developing DungeonReborne for the Dungeonborne community
 
 Our immediate priorities are reliable client installation and updates, the account system, server infrastructure, and verification that game progress is saved correctly. Alongside this work, we will continue improving the website, publishing DungeonReborne news, and collecting feedback from the Dungeonborne community.
 
 Follow our website and Discord for launch news, connection requirements, and additional project features.
+
+---
+
+## 🔎 About the project and gaming community
+
+Looking for **where to play Dungeonborne** or **how to play Dungeonborne after shutdown**? DungeonReborne is an independent community project preparing for launch. We are developing an unofficial Dungeonborne community server, a custom PC launcher, and an account system to make getting into the game straightforward.
+
+Our Russian and English Dungeonborne community brings together players interested in co-op PvPvE raids, classes, equipment, and dungeon exploration. The DungeonReborne website provides project news and getting-started instructions, while Discord is a place to find teammates, discuss game mechanics, and suggest improvements.
+
+Follow the development of the DungeonReborne server on [our website](https://dungeonreborne.com) and in [our community Discord](https://discord.gg/J9rmpSzBkf). Connection instructions and game server availability will be covered in our launch news.
 
 ---
 
@@ -93,17 +103,17 @@ No. DungeonReborne is an independent community project. We do not claim official
 
 Visit **[dungeonreborne.com](https://dungeonreborne.com)**, read the latest announcements, and review the getting-started and account instructions. Access to the game depends on the current testing stage and server availability.
 
-### Where can I follow DungeonReborne news?
+### Where can I read DungeonReborne news for the Dungeonborne community?
 
 Development news and announcements are published on **[our website](https://dungeonreborne.com)** and in **[our Discord](https://discord.gg/J9rmpSzBkf)**.
 
-### Where can I follow the DungeonReborne launch?
+### Where can Dungeonborne players follow the DungeonReborne server launch?
 
 We are preparing for launch. Follow our website and Discord for opening announcements and connection instructions.
 
 ### Can I suggest Dungeonborne-related changes for the project?
 
-Yes. The DungeonReborne community has dedicated forums for ideas, game mechanics, and balance suggestions. Suggestions are considered in the context of the project's capabilities and current development stage.
+Yes. Dungeonborne players can share ideas in the DungeonReborne community, which has dedicated forums for game mechanics and balance suggestions. Suggestions are considered in the context of the project's capabilities and current development stage.
 
 ---
 
