@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="76" viewBox="0 0 290 76" role="img" aria-label="OUR DISCORD">
+<title>OUR DISCORD</title>
+<rect x="1" y="1" width="288" height="74" rx="3" fill="#111710" stroke="#b99d60" stroke-width="1.5"/>
+<rect x="5" y="5" width="280" height="66" rx="1" fill="none" stroke="#eadbb6" stroke-opacity=".18"/>
+<path d="M20 28V18h10 M260 18h10v10 M20 48v10h10 M260 58h10V48" fill="none" stroke="#b7a77c" stroke-width="1"/>
+<text x="39" y="33" fill="#eadbb6" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="1.4">OUR DISCORD</text>
+<text x="39" y="51" fill="#b7a77c" font-family="Arial, sans-serif" font-size="8" letter-spacing=".6">JOIN THE COMMUNITY</text>
+<path d="M242 32l6 6-6 6 M232 38h16" fill="none" stroke="#eadbb6" stroke-width="1.5"/>
+</svg>
